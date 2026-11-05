@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap');
+
+:root{--cream:#fbf8f1;--ink:#20352c;--muted:#6d756e;--green:#2f6b4f;--green-dark:#214d39;--lime:#d9ed9a;--orange:#df7b45;--line:#e6e2d8}
+*{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;background:var(--cream);color:var(--ink);font-family:'DM Sans',sans-serif} button,input{font:inherit} button{cursor:pointer} .serif{font-family:'Fraunces',serif}
